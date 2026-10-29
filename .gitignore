@@ -53,5 +53,9 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
-
+env/
+rnv/
+__pycache__/
+_secret_auth_.json
+signlearn.db
 
